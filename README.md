@@ -1,4 +1,3 @@
-# fibonacci
-Demo project
+# Fibonacci
 
-Fibonacci Sequence
+This is _demo_ project fibonacci sequence
